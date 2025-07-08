@@ -25,4 +25,10 @@ return [
     '@hotwired/turbo' => [
         'version' => '7.3.0',
     ],
+    '@googlemaps/js-api-loader' => [
+        'version' => '1.16.10',
+    ],
+    '@symfony/ux-google-map' => [
+        'path' => './vendor/symfony/ux-google-map/assets/dist/map_controller.js',
+    ],
 ];

@@ -100,7 +100,8 @@
         "symfony": {
             "allow-contrib": false,
             "require": "7.3.*"
-        }
+        },
+        "PUBLIC_DIR": "public"
     },
     "require-dev": {
         "phpunit/phpunit": "^12.2",

@@ -1,0 +1,5 @@
+user:
+    # id is user.login
+    login: Login
+    password: Mot de passe
+  

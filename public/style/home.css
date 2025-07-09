@@ -25,11 +25,13 @@ body {
   
   .heading-page
   {
+      font-family: "Lab", serif;
       text-transform: uppercase;
       font-size: 55px;
       font-weight: bolder;
       letter-spacing: 3px;
       color: white;
+      src: "../fonts/LAB-RoundedBold.ttf";
   }
   a {
     color: inherit;
